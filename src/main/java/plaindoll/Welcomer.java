@@ -11,6 +11,6 @@ public class Welcomer{
 		return "Not enough gold";
 	}
 	public String askAboutBestHunter(){
-		return "Darling, do you know who is the best hunter in the world?"
+		return "Darling, do you know who is the best hunter in the world?";
 	}
 }
